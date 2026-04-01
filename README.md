@@ -1,2 +1,2 @@
 # Trajectory-Simulations-of-Magnetic-Object
-This project is about simulating the trajectories of magnetic objects near a powerful MRI magnet. The purpose of the project is to find the speed of the object, giving insights into the importance of safety around MRI magnets.
+This project is about simulating the trajectories of magnetic objects near a powerful MRI magnet. The purpose of the project is to find the speed of the object, giving insights into the importance of safety around MRI magnets.  The project is in both pdf format and ipynb. Instead of being written as a scientific report, it is instead written in a more iterative manner. The goal is to help the reader follow the thought process behind the project. 
